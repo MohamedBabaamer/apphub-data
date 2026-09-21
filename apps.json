@@ -2879,6 +2879,30 @@
       "description": "Kimi is an AI-powered personal assistant that helps users manage tasks, schedule events, and provide information.",
       "requirements": "Windows 7+",
       "version": "Latest"
+    },
+    "balenaEtcher": {
+      "id": 240,
+      "name": "balenaEtcher",
+      "type": "Utility",
+      "url": "https://etcher.balena.io/",
+      "winget": "Balena.Etcher",
+      "choco": "na",
+      "download": "https://etcher.balena.io/#download-etcher",
+      "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+      "requirements": "Windows 7+",
+      "version": "Latest"
+    },
+    "Moji": {
+      "id": 241,
+      "name": "Moji",
+      "type": "Document",
+      "url": "https://alexishida.com/moji",
+      "winget": "na",
+      "choco": "na",
+      "download": "https://github.com/alexishida/Moji/releases/download/v1.0.7/Moji.Setup.1.0.7.exe",
+      "description": "A lightweight desktop app for opening, reading, editing, previewing, and exporting Markdown files.",
+      "requirements": "Windows 10+",
+      "version": "1.0.7"
     }
   }
 }
